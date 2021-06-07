@@ -16,6 +16,7 @@ published: false
 
 - [Android Developers 공식문서](https://developer.android.com/kotlin/first?hl=ko): Android Developers 공식문서
 - [[Kotlin] 개발환경 구축하고 Hello World 출력하기](https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=wideeyed&logNo=222055173693): InetlliJ에서 Kotlin 개발환경 구축
+- [[Kotlin] 코틀린 기초](https://doorbw.tistory.com/241): 정말 기초적인 내용이지만 다른 언어와 다른 점들이 있어서 숙지 필요할 듯
 
 <hr>
 
